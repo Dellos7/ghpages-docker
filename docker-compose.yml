@@ -7,4 +7,4 @@ services:
     ports:
       - "4000:4000"
     volumes:
-      - "./informatica-eso-bat/:/src/site"
+      - "./web/:/src/site"
