@@ -7,3 +7,5 @@ docker compose up
 ```
 
 [http://0.0.0.0:4000/](http://0.0.0.0:4000/)
+
+en Windows por alguna razón abrirlo en [http://localhost:4000/](http://localhost:4000/) aunque esté asociada la 0.0.0.0
